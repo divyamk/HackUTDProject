@@ -6,6 +6,7 @@ MVP Description:
 
 
 To-do:
+
 1/2.Set up React and Firbase environments and integrate them
 1. API data from free instruments data.
 2. Connect API data to our website/web app
